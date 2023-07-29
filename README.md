@@ -1,4 +1,4 @@
-# projeto-desafio1
+# ProjetoLandingPage-Arquitetura
 
 link do site disponibilizado: https://landingpagearquiteturaa.netlify.app
 
